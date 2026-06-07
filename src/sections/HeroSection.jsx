@@ -78,9 +78,8 @@ export default function HeroSection() {
               <div className="mx-auto grid h-56 w-56 place-items-center rounded-[2rem] border border-[#334155] bg-gradient-to-br from-[#0F172A] via-[#1E293B] to-[#0F172A] shadow-glow animate-float">
                 <div className="grid h-44 w-44 place-items-center rounded-[1.5rem] bg-gradient-to-br from-[#3B82F6] via-[#06B6D4] to-[#3B82F6] p-1">
                   <div className="grid h-full w-full place-items-center rounded-[1.35rem] bg-[#0F172A]/90 text-center">
-                    <div>
-                      <p className="font-display text-5xl font-bold text-white">AB</p>
-                      <p className="mt-2 text-sm tracking-[0.3em] text-[#94A3B8]">PROFILE</p>
+                    <div >
+                      <img src="/image.jpeg" alt="My Image" className="grid h-[168px] w-[170px] place-items-center rounded-[1.35rem] bg-[#0F172A]/90 text-center" />
                     </div>
                   </div>
                 </div>
