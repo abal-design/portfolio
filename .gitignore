@@ -11,3 +11,4 @@ coverage
 package-lock.json
 yarn.lock
 package.json
+public/image.jpeg
